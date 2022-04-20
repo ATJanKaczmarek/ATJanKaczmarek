@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi, I'm Jan 👋🏻
+## 🧑🏼 About Me
+- 🏠 I'm a student from Germany
+- 🧠 I'm interested in front-end-development and UI/UX design
+- 🛠️ I’m currently working on a [todo-app](https://github.com/ATJanKaczmarek/todo-teams-app)
+- 🌱 I’m currently learning [@Flutter](https://github.com/flutter)
 
-<!--
-**ATJanKaczmarek/ATJanKaczmarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects in the past 🔙
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👖 I worked with React to create a PWA called ["MyCloset"](https://github.com/ATJanKaczmarek/todo-teams-app). It's a little unfinished app to organize your garments.
+- 🎮 I worked a lot with Unity3d. This way I learned programming. [This is a little sideproject of mine](https://github.com/ATJanKaczmarek/airport-idle-game).
+- 🧑🏼‍💻 I made some websites [like this one](https://atjankaczmarek.github.io/pizzaria-concept/), when I started web-development.
