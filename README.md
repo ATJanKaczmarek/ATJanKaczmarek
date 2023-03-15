@@ -2,7 +2,7 @@
 ## 🧑🏼 About Me
 - 🏠 I'm a student from Germany
 - 🧠 I'm interested in front-end-development and UI/UX design
-- 🛠️ I’m currently working on a [studypilot](https://www.studypilot.app)
+- 🛠️ I’m currently working on [studypilot](https://www.studypilot.app)
 - 🌱 I’m currently learning [@Flutter](https://github.com/flutter)
 
 ## My Projects in the past 🔙
